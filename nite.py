@@ -1,2 +1,2 @@
 print("this is on git hub but for change")
-print this is good")
+print("this is good")
